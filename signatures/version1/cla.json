@@ -1,3 +1,20 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "cowfee",
+      "id": 126690259,
+      "comment_id": 1547795377,
+      "created_at": "2023-05-15T12:45:57Z",
+      "repoId": 640896887,
+      "pullRequestNo": 1
+    },
+    {
+      "name": "cowfee",
+      "id": 126690259,
+      "comment_id": 1547815748,
+      "created_at": "2023-05-15T12:59:50Z",
+      "repoId": 640896887,
+      "pullRequestNo": 1
+    }
+  ]
 }
